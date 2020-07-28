@@ -20,8 +20,10 @@
 * [Seoul bike analysis](https://nbviewer.jupyter.org/gist/Sean-Parkk/0d7d9567b0d8145eaf2f4fec587740f4)
 
 <div align=center>
+  
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://sean-parkk.github.io/)](https://sean-parkk.github.io/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:stuun933@gmail.com)](mailto:stuun933@gmail.com)
+
 </div>
 <!--
 **Sean-Parkk/Sean-parkk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
