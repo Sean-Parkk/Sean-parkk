@@ -1,10 +1,10 @@
 ### Hi there 👋
 <div align=right>
 <!-- Hits Counter -->
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsean-parkk)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsean-parkk)](https://hits.seeyoufarm.com)
 </div>
 <!-- Github Stats -->
-![Sean-parkk's github stats](https://github-readme-stats.vercel.app/api?username=Sean-parkk&show_icons=true)
+[![Sean-parkk's github stats](https://github-readme-stats.vercel.app/api?username=Sean-parkk&show_icons=true)
 
 <!-- Top Lang Card -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sean-parkk&layout=compact)](https://github.com/sean-parkk)
