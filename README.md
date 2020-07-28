@@ -7,7 +7,7 @@
 
 <div align=center>
   
-  ### Hi there, i'm Sean!👋
+  ### Hi there, I'm Sean!👋
 
 </div>
 
