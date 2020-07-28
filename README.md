@@ -1,21 +1,28 @@
-<div align=center>
-  
-  ### Hi there 👋
-
-</div>
 <!-- Hits Counter -->
-
 <div align=right>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsean-parkk)](https://hits.seeyoufarm.com)
 
 </div>
 
-<!-- Github Stats -->
-![Sean-parkk's github stats](https://github-readme-stats.vercel.app/api?username=sean-parkk&show_icons=true)
+<div align=center>
+  
+  ### Hi there, i'm Sean!👋
 
-<!-- Top Lang Card -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sean-parkk&layout=compact)](https://github.com/sean-parkk)
+</div>
+
+🌱 **I'm studying to be a data analyst.**  
+* [About sean](https://sean-parkk.github.io/about/)
+* [My own curriculum(data analysis)](https://sean-parkk.github.io/curriculum/)
+
+✨ **Recent projects**
+* [FoodMap for students in Playdata](https://c11.kr/ZMS_map)
+* [Predict customer churn with logistic regression](https://github.com/Sean-Parkk/Projects/tree/master/predict_customer_churn)
+* [Seoul bike analysis](https://nbviewer.jupyter.org/gist/Sean-Parkk/0d7d9567b0d8145eaf2f4fec587740f4)
+
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://sean-parkk.github.io/)](https://sean-parkk.github.io/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:stuun933@gmail.com)](mailto:stuun933@gmail.com)
+
 <!--
 **Sean-Parkk/Sean-parkk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
