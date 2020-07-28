@@ -6,12 +6,12 @@
 </div>
 <div align=center>
   
-  ### Hi there, I'm Sean!👋
+  ### Hi there, I'm Sean!👋(🇰🇷)
 
 </div>
 
 🌱 **I'm studying to be a data analyst.**  
-* [About sean](https://sean-parkk.github.io/about/)
+* [About Sean](https://sean-parkk.github.io/about/)
 * [My own curriculum(data analysis)](https://sean-parkk.github.io/curriculum/)
 
 ✨ **Recent projects**
