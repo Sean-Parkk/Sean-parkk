@@ -1,5 +1,5 @@
 ### Hi there 👋
-<div align = right>
+<div align=center>
 <!-- Hits Counter -->
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsean-parkk)](https://hits.seeyoufarm.com)
 </div>
