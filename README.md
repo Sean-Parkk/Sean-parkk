@@ -6,6 +6,7 @@
 <!-- Github Stats -->
 [![Sean-parkk's github stats](https://github-readme-stats.vercel.app/api?username=Sean-parkk&show_icons=true)
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
 <!-- Top Lang Card -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sean-parkk&layout=compact)](https://github.com/sean-parkk)
 <!--
