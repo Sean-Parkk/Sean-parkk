@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sean-parkk&layout=compact)](https://github.com/sean-parkk)
 <!--
 **Sean-Parkk/Sean-parkk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
