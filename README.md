@@ -1,4 +1,8 @@
-### Hi there 👋
+<div align=center>
+  
+  ### Hi there 👋
+
+</div>
 <!-- Hits Counter -->
 
 <div align=right>
