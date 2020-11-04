@@ -15,6 +15,7 @@
 * [My own curriculum (data analysis)](https://sean-parkk.github.io/curriculum/)
 
 ### ✨ Projects
+* [Classification mask or not(chin-mask, nose-mask, non-mask) with CNN](https://github.com/Sean-Parkk/Projects/tree/master/Detecting%20Mask%20(with%20CNN))
 * [FoodMap for students in 'Playdata' academy](https://c11.kr/ZMS_map)
 * [Predict customer churn with logistic regression](https://github.com/Sean-Parkk/Projects/tree/master/predict_customer_churn)
 * [Seoul bike analysis](https://nbviewer.jupyter.org/gist/Sean-Parkk/0d7d9567b0d8145eaf2f4fec587740f4)
