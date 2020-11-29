@@ -10,7 +10,7 @@
 
 </div>
 
-### 🌱 I'm studying data-science to be a data analyst.  
+### 🌱 About..  
 * [About Sean](https://sean-parkk.github.io/about/)
 * [My own curriculum (data analysis)](https://sean-parkk.github.io/curriculum/)
 
